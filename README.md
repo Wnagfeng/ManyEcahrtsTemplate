@@ -4,5 +4,4 @@
 
 # ManyEcahrtsTemplate
 
-# 项目效果
-<img src>
+
